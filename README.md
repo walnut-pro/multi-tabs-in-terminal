@@ -1,6 +1,6 @@
 # multi-tabs-in-terminal
 ## Macのターミナルで複数のタブを使う
-###　コマンド
+### コマンド
 
 Command + t : 新しいタブを表示
 Command + d： タブを横に分割
